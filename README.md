@@ -1,4 +1,4 @@
-# Homebrew/discussions
+ # Homebrew/discussions
 
 Public open-ended discussions. Replacement for our, now deprecated, [Discourse](https://discourse.brew.sh).
 
